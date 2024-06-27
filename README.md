@@ -1,4 +1,4 @@
-**Adegoke Saheed's Computer & Networking Technician,  Data Science and Machine Learning Portfolio**
+**Adegoke Saheed's Data Science and Machine Learning, Computer & Networking Technician Portfolio**
 ---
 ### Contact Information:
 - **Name:** Adegoke Saheed
