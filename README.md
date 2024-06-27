@@ -1,4 +1,4 @@
-**Adegoke Saheed's Data Science and Machine Learning Portfolio**
+**Adegoke Saheed's Computer & Networking Technician,  Data Science and Machine Learning Portfolio**
 ---
 ### Contact Information:
 - **Name:** Adegoke Saheed
@@ -6,8 +6,8 @@
 - **Contact Numbers:** +2348032520426, +2348055273536
 ---
 ### Professional Summary:
-I am a dedicated and results-driven Data Scientist and Machine Learning Engineer with a strong
-foundation in statistical analysis, data manipulation, and machine learning techniques. I have
+I am a dedicated and results-driven Computer & Networking Technician, Data Scientist and Machine Learning Engineer with a strong
+foundation in Computer Repair, Software % Hardware Instalations, Networking setup & Troubleshooter's, statistical analysis, data manipulation, and machine learning techniques. I have
 successfully applied my expertise to various datasets, uncovering insights and building
 predictive models that drive business decisions. My experience spans across diverse domains,
 including hospitality, retail, healthcare, real estate, and scientific research.
