@@ -7,7 +7,7 @@
 ---
 ### Professional Summary:
 I am a dedicated and results-driven Computer & Networking Technician, Data Scientist and Machine Learning Engineer with a strong
-foundation in Computer Repair, Software % Hardware Instalations, Networking setup & Troubleshooter's, statistical analysis, data manipulation, and machine learning techniques. I have
+foundation in Computer Repair, Software & Hardware Instalations, Networking setup & Troubleshooter's, statistical analysis, data manipulation, and machine learning techniques. I have
 successfully applied my expertise to various datasets, uncovering insights and building
 predictive models that drive business decisions. My experience spans across diverse domains,
 including hospitality, retail, healthcare, real estate, and scientific research.
